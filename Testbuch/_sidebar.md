@@ -1,26 +1,11 @@
 ```
-* [HTML und CSS](index.md)
+* [Start](index.md)
 
-* HTML  
-  * [Elemente in HTML](ElementeInHTML.md)
-  * [Text-Elemente in HTML](TextElementeInHTML.md)
-  * [Verweise in HTML](VerweiseInHTML.md)
-  * [Verschachtelungen in HTML](VerschachtelungenInHTML.md)
-  * [Listen und Tabellen in HTML](ListenundTabellenInHTML.md)
-  * [HTML hat Kopf und Fuß](HTMLhatKopfundFuss.md)
+* Datenbanken auf Papier  
+  * [ein Beispiel](Seite.md)
 
-* CSS  
-  * [Elemente in CSS](ElementeInCSS.md)
-  * [Attribute in CSS](AttributeInCSS.md)
-  * [Vererbung in CSS](VererbungInCSS.md)
-  * [CSS und die Boxen](CSSUndDieBoxen.md)
-  * [Layout mit CSS](LayoutMitCSS.md)
-
-* Projektaufgaben
-  * [Filmwebseite](filmwebseite.md)
-  * [Expertenaufgaben](expertenaufgaben.md) 
-
-
+* Datenbanken in echt  
+  * [ein Beispiel](Seite.md)
 
 * Apps
 
