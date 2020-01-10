@@ -1,4 +1,4 @@
-# Fake
+# Eine Seite
 
 **In diesem Buch lernst du Fake zu erkennen. Die meisten Handreichungen beschränken sich darauf einzuschätzen, ob die Nachricht, das Video oder das Bild von einer vertrauenswürdigen Plattform kommt. Doch auch diese machen Fehler, recherchieren unzureichend oder übernehmen Agenturmitteilungen. Hier lernst du die eigentliche Information als solche zu prüfen.**
 
@@ -7,7 +7,6 @@ w> Alle hier gezeigten Nachrichten, Videos oder Bilder können urheberrechtliche
 Ein guter Einstiegsvortrag (ca 30min) hat [Robert Clausen](https://twitter.com/docanonymous_) gehalten:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rfrp--c6AVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Lernen
 
 In diesem Abschnitt sehen wir uns gemeinsam gut geeignete Möglichkeiten an, um Fake zu identifizieren.
