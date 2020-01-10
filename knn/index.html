@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>eine Seite</title>
+  <title>Künstliche neuronale Netze</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -17,7 +17,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Inhaltsverzeichnis',
+      name: 'Künstliche neuronale Netze',
       homepage: 'index.md',
       auto2top: true,
       loadSidebar: true,
@@ -54,8 +54,6 @@
               result = helper('alert alert-danger', text);
             } else if (/^t&gt;/.test(text)) {
               result = helper('alert alert-task', text);
-			} else if (/^h&gt;/.test(text)) {
-              result = helper('alert alert-help', text);
             } else {
               result = "<p>" + text + "</p>";
             }
@@ -71,7 +69,7 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/ennabu/Informatik_Oberstufe/tree/master/Testbuch' + vm.route.file
+            var url = 'https://github.com/wi-wissen/informatikschulbuch/blob/master/knn/' + vm.route.file
             var editHtml = '[Edit on GitHub](' + url + ')\n'
             return "<p style='text-align:right;'>{docsify-updated}<p>\n\n" + html
               + '\n\n----\n'
@@ -83,7 +81,6 @@
   </script>
   <script src="js/docsify.min.js"></script>
   <script src="js/search.min.js"></script>
-  <script src="js/external-script.min.js"></script>
   <script src="js/prism.js"></script>
 </body>
 

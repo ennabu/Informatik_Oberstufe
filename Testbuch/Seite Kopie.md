@@ -1,11 +1,12 @@
-# Datenbanken
+# Eine Seite
 
-Die ganze Welt steckt voller Datenbanken
+**In diesem Buch lernst du Fake zu erkennen. Die meisten Handreichungen beschränken sich darauf einzuschätzen, ob die Nachricht, das Video oder das Bild von einer vertrauenswürdigen Plattform kommt. Doch auch diese machen Fehler, recherchieren unzureichend oder übernehmen Agenturmitteilungen. Hier lernst du die eigentliche Information als solche zu prüfen.**
 
-w> Etwas wichtiges.
+w> Alle hier gezeigten Nachrichten, Videos oder Bilder können urheberrechtlichen Schutz unterliegen und werden hier ausschließlich zu Lehrzwecken verwendet. Bei der Auswahl wurde die Schwierigkeit beim Erkennen berücksichtigt und nicht der eigentliche Inhalt.
 
-i> Eine Info
+Ein guter Einstiegsvortrag (ca 30min) hat [Robert Clausen](https://twitter.com/docanonymous_) gehalten:
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rfrp--c6AVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Lernen
 
 In diesem Abschnitt sehen wir uns gemeinsam gut geeignete Möglichkeiten an, um Fake zu identifizieren.
