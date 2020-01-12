@@ -2,27 +2,27 @@
 .markdown-section .alert {
     background-color: #f8f8f8;
     border-bottom-right-radius: 2px;
-    border-left: 4px solid #f66;
+    border-left: 4px solid #ff005c;
     border-top-right-radius: 2px;
     margin: 2em 0;
     padding: 12px 24px 12px 30px;
     position: relative;
   }
   .markdown-section .alert:before {
-    background-color: #f66;
+    background-color: #ff005c;
     border-radius: 100%;
     color: #fff;
     content: '!';
     font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    left: -12px;
+    font-size: 13px;
+    font-weight: 900;
+    left: -13px;
     line-height: 20px;
     position: absolute;
-    height: 20px;
-    width: 20px;
+    height: 22px;
+    width: 22px;
     text-align: center;
-    top: 14px;
+    top: 13px;
   }
   .markdown-section .alert code {
     background-color: #efefef;
@@ -33,10 +33,10 @@
 
 /* success*/
 .markdown-section .alert-success  {
-    border-left: 4px solid #42b983;
+    border-left: 4px solid #ABD144;
   }
   .markdown-section .alert-success:before {
-    background-color: #42b983;
+    background-color: #ABD144;
     color: #fff;
     content: '✓';
   }
@@ -49,12 +49,12 @@
 
 /* info*/
 .markdown-section .alert-info  {
-    border-left: 4px solid #4582AE;
+    border-left: 4px solid #004B87;
   }
   .markdown-section .alert-info:before {
-    background-color: #4582AE;
+    background-color: #004B87;
     color: #fff;
-    content: 'i';
+    content: ' i';
   }
   .markdown-section .alert-info code {
     background-color: #efefef;
@@ -65,10 +65,10 @@
 
 /* warning*/
 .markdown-section .alert-warning  {
-    border-left: 4px solid #FFAB66;
+    border-left: 4px solid #FA9A34;
   }
   .markdown-section .alert-warning:before {
-    background-color: #FFAB66;
+    background-color: #FA9A34;
     color: #fff;
     content: '!';
   }
@@ -81,12 +81,12 @@
 
 /* danger*/
 .markdown-section .alert-danger  {
-    border-left: 4px solid #f66;
+    border-left: 4px solid #ff005c;
   }
   .markdown-section .alert-danger:before {
-    background-color: #f66;
+    background-color: #ff005c;
     color: #fff;
-    content: '⨯';
+    content: 'x';
   }
   .markdown-section .alert-danger code {
     background-color: #efefef;
@@ -102,7 +102,7 @@
   .markdown-section .alert-task:before {
     background-color: #364149;
     color: #fff;
-    content: '🖉';
+    content: 'A';
   }
   .markdown-section .alert-task code {
     background-color: #efefef;
