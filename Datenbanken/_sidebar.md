@@ -1,7 +1,7 @@
 * [Start](/)
 * [Datenbankentwicklung](DBS.md)
 * [Konzeptionelle Entwurfsphase](konzeptionell.md)  
-* [Logische Entwurfsphase](logisch.md)
+* [Logische Entwurfsphase](./logisch.md)
 * Formale Sprachen und Automaten
 * Nützliche Werkzeuge
 
