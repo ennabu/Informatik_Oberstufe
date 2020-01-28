@@ -1,5 +1,5 @@
 * [Start](/)
-* [Datenbanken](Datenbanken/index.md)
+* [Datenbanken](/Datenbanken/index.md)
 * [Rechner und Netze](RechnerNetze)  
 * Softwaretechnik
 * Formale Sprachen und Automaten
