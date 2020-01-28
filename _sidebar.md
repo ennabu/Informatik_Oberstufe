@@ -1,6 +1,6 @@
 * [Start](/)
-* [Datenbanken](Datenbanken)
-* [Rechner und Netze](RechnerNetze)  
+* [Datenbanken](./Datenbanken)
+* [Rechner und Netze](./RechnerNetze)  
 * Softwaretechnik
 * Formale Sprachen und Automaten
 * Nützliche Werkzeuge
