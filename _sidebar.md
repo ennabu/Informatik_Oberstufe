@@ -1,5 +1,5 @@
 * [Start](/)
-* [Datenbanken](Datenbanken)
+* [Datenbanken](./Datenbanken)
 * Rechner und Netze  
 * Softwaretechnik
 * Formale Sprachen und Automaten
