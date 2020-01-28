@@ -1,4 +1,4 @@
-* [Start](/Datenbanken)
+* [Start](/)
 * [Datenbankentwicklung](./DBS.md)
 * [Konzeptionelle Entwurfsphase](./konzeptionell.md)  
 * [Logische Entwurfsphase](./logisch.md)
