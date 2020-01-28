@@ -1,20 +1,14 @@
 * [Start](/)
-
-* Datenbanken auf Papier  
-  * [ein Beispiel](Seite.md)
-
-* Datenbanken in echt  
-  * [ein Beispiel](Seite.md)
-
-* Apps
+* [Datenbanken](Datenbanken.md)
+* Rechner und Netze  
+* Softwaretechnik
+* Formale Sprachen und Automaten
+* Nützliche Werkzeuge
 
   * [Editor](https://apps.wi-wissen.de/html-css-js-editor/)
   * [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 
 
 
-* Weiterführende Links
-  * ein Buch
-  * ein anderes Buch
-
+* Nützliche Links
 
