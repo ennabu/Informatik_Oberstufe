@@ -1,4 +1,4 @@
-* [Start](/Datenbanken/index.html)
+* [Start](/Datenbanken/index.md)
 * [Datenbankentwicklung](./DBS.md)
 * [Konzeptionelle Entwurfsphase](./konzeptionell.md)  
 * [Logische Entwurfsphase](./logisch.md)
