@@ -1,6 +1,6 @@
 * [Start](/)
 * [Datenbanken](/Datenbanken/index.md)
-* [Rechner und Netze](RechnerNetze)  
+* [Rechner und Netze](/RechnerNetze/index.md)  
 * Softwaretechnik
 * Formale Sprachen und Automaten
 * Nützliche Werkzeuge
