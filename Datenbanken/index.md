@@ -1,6 +1,14 @@
 # Datenbanken
+Die ganze Welt steckt voller Datenbanken. Sie speichern riesige Datenmengen in irgendeiner mehr oder weniger sinnvollen Struktur. Je nachdem, was wichtig ist. 
 
-Die ganze Welt steckt voller Datenbanken. Sie speicher
+
+
+
+##Schritt 1 – Erstmal in den Erinnerungen kramen…
+
+Bislang habt ihr schon ein bisschen zu Datenbanken gelernt (und bestimmt inzwischen auch wieder vergessen…) Darum hier eine kleine Rückschau.
+
+Ihr solltet mit den Begriffen *Tabelle, Datensatz, Attribut, Schema* und *Attributwert* umgehen können und ihre Bedeutung erklären können. 
 
 w> Etwas wichtiges.
 
