@@ -1,7 +1,7 @@
-* [Start](/)
-* [Datenbanken](/Datenbanken/index.md)
-* [Rechner und Netze](/RechnerNetze/index.md)  
-* [Softwaretechnik](/Softwaretechnik/index.md)
+* [Start](./)
+* [Datenbankentwicklung](./DBS.md)
+* [Konzeptionelle Entwurfsphase](./konzeptionell.md)  
+* [Logische Entwurfsphase](./logisch.md)
 * Formale Sprachen und Automaten
 * Nützliche Werkzeuge
 
@@ -11,5 +11,6 @@
 
 
 * Nützliche Links
-
+  * [Videos vom 36C3](https://media.ccc.de/c/36c3)
+  * 
 
