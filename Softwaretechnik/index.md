@@ -10,16 +10,12 @@ Gute Kurse:
   sehr kurze und prägnante Einführung
 - https://www.inf-schule.de/modellierung/ooppython
   sehr ausführliche Einführung
-- 
-- 
-
-
 
 
 
 ## Die Objektorientierte Brille
 
-
+In der objektorientierten Welt
 
 
 

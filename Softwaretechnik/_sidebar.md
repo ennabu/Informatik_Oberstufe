@@ -1,16 +1,10 @@
 * [Start](./)
-* [Datenbankentwicklung](./DBS.md)
-* [Konzeptionelle Entwurfsphase](./konzeptionell.md)  
-* [Logische Entwurfsphase](./logisch.md)
-* Formale Sprachen und Automaten
+* [Die Objektorientierte Brille](./01_Brille.md)
 * Nützliche Werkzeuge
 
-  * [Editor](https://apps.wi-wissen.de/html-css-js-editor/)
-  * [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
-
-
+  * [Thonny](https://thonny.org/)
 
 * Nützliche Links
-  * [Videos vom 36C3](https://media.ccc.de/c/36c3)
-  * 
+  * https://www.python-kurs.eu/python3_klassen.php 
+  * https://www.inf-schule.de/modellierung/ooppython
 
