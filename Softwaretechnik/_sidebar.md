@@ -8,4 +8,5 @@
 * Nützliche Links
   * https://www.python-kurs.eu/python3_klassen.php 
   * https://www.inf-schule.de/modellierung/ooppython
+  * https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
 

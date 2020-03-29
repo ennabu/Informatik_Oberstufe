@@ -4,12 +4,17 @@
 
 
 
-Gute Kurse:
+Gutes Material:
 
 - https://www.python-kurs.eu/python3_klassen.php 
   sehr kurze und prägnante Einführung
+  
 - https://www.inf-schule.de/modellierung/ooppython
   sehr ausführliche Einführung
+  
+- https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
+  
+  ein englischer Text, aber dafür für 6-jährige
 
 
 
@@ -19,7 +24,7 @@ Setzen Informatiker\*innen ihre objektorientierte Brille auf, sehen sie nur noch
 
 Sie haben gemeinsame **Attribute**, also Eigenschaften und auch **Methoden**, die sie alle ausführen können (genauer: die man an ihnen vollziehen kann). Man stellt diese Informationen in einer **Klassenkarte** dar.
 
-![Klassenkarten_Objektkarten](img/Klassenkarten_Objektkarten.png)
+![Klassenkarte](img/Klassenkarte.png)
 
 Einzelne Objekte aus dieser Klasse weisen nun die gleichen Attribute und Methoden auf, wie die Klasse – die **Attributwerte** sind aber unterschiedlich. 
 
@@ -31,18 +36,17 @@ Einzelne Objekte aus dieser Klasse weisen nun die gleichen Attribute und Methode
 
 t> Lege Objektkarten für zwei weitere Objekte der Klasse Katze an.
 
+t> Überlege dir zwei andere Beispiele für Objekte und Klassen.
 
 
 
+## Datenkapselung
 
+Eines der Grundprinzipien der Objektorientierten Modellierung ist die **Datenkapselung**. Dieses Prinzip sorgt dafür, dass der Zugriff auf Methoden und Attribute explizit durch die Klasse geregelt wird. Attribute und Methoden können entweder die Sichtbarkeit **private** (-) oder **public** (+) haben. Private bedeutet, dass das Attribut oder die Methode nur vom Objekt selbst verwendet werden kann – Public dass der Zugriff auch von außerhalb, beispielsweise durch ein anderes Objekt möglich ist.
 
+Häufig kommt es beispielsweise vor, dass der Zugriff auf bestimmte Attribute nur über eine entsprechende Methode möglich ist. 
 
+![katze_datenkapselung](img/katze_datenkapselung.png)
 
+t> Überlege dir hinreichend plausible Gründe für die Wahl der Sichtbarkeiten im obigen Beispiel.
 
-Egal ob Primär- oder Sekundärquelle, beide können Fake sein. Prüfe daher in beiden Fällen nach, ob die Informationen stimmen.
-
-## Wettbewerb 
-
-Wir haben euch schwerer werdende Aufgaben zusammengestellt. Stellt in Gruppen euer ganzes Können unter beweis und knackt unsere Rätsel. Welches Team schafft wohl die meisten?
-
-i> Hast du Lust auf noch mehr Rätsel? [@quitime veröffentlicht bei Twitter](https://twitter.com/quiztime) beständig Rätsel für Erwachsene.
