@@ -1,6 +1,6 @@
 # Softwaretechnik
 
-![01_OOM](01_OOM.png)
+![01_OOM](./img/01_OOM.png)
 
 
 
@@ -15,7 +15,7 @@ Gute Kurse:
 
 ## Die Objektorientierte Brille
 
-In der objektorientierten Welt
+In der objektorientierten Welt existieren 
 
 
 
