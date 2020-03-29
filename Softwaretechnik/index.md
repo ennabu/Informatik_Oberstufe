@@ -17,9 +17,9 @@ Gute Kurse:
 
 Setzen Informatiker*innen ihre objektorientierte Brille auf, sehen sie nur noch **Objekte** , die zu irgendwelchen **Klassen** zusammen gefasst werden können. So gibt es zum Beispiel lauter unterschiedliche  Objekte, die alle der Klasse *Katze* angehören.
 
-| ![Download](Download.jpeg) | <img src="GarfieldStanding.jpg" alt="GarfieldStanding" style="height:200px;" /> | ![Nyan_Cat](Nyan_Cat.gif) |
-| -------------------------- | ------------------------------------------------------------ | ------------------------- |
-|                            |                                                              |                           |
+| ![Download](./img/Download.jpeg) | <img src="./img/GarfieldStanding.jpg" alt="GarfieldStanding" style="height:200px;" /> | ![Nyan_Cat](./img/Nyan_Cat.gif) |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------- |
+|                                  |                                                              |                                 |
 
 
 
