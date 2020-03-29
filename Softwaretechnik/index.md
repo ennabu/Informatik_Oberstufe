@@ -15,34 +15,19 @@ Gute Kurse:
 
 ## Die Objektorientierte Brille
 
-Setzen Informatiker*innen ihre objektorientierte Brille auf, sehen sie nur noch **Objekte** , die zu irgendwelchen **Klassen** zusammen gefasst werden können. So gibt es zum Beispiel lauter unterschiedliche  Objekte, die alle der Klasse *Katze* angehören.
+Setzen Informatiker*innen ihre objektorientierte Brille auf, sehen sie nur noch **Objekte** , die zu irgendwelchen **Klassen** zusammen gefasst werden können. So gibt es zum Beispiel lauter unterschiedliche  Objekte, die alle der Klasse *Katze* angehören. Sie haben gemeinsame **Attribute**, also Eigenschaften und auch **Methoden**, die sie alle ausführen können (genauer: die man an ihnen vollziehen kann). Man stellt diese Informationen in einer **Klassenkarte** dar.
 
-| ![Download](./img/Download.jpeg) | <img src="./img/GarfieldStanding.jpg" alt="GarfieldStanding" style="height:200px;" /> | ![Nyan_Cat](./img/Nyan_Cat.gif) |
-| -------------------------------- | ------------------------------------------------------------ | ------------------------------- |
-|                                  |                                                              |                                 |
+<img src="./img/Klassenkarte.png" alt="Klassenkarte" style="zoom:33%;" />
 
+Einzelne Objekte aus dieser Klasse weisen nun die gleichen Attribute und Methoden auf, wie die Klasse – die **Attributwerte** sind aber unterschiedlich. 
 
+|               ![Download](./img/Download.jpeg)               | <img src="GarfieldStanding-5494833.jpg" alt="GarfieldStanding," style="zoom:14%;" /> | ![Nyan_Cat](./img/Nyan_Cat.gif) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------- |
+| <img src="img/GrumpyCat.png" alt="GrumpyCat, zoo" style="zoom:25%;" /> |                                                              |                                 |
 
-
-
-
-
-
+i> Lege Objektkarten für die anderen beiden Objekte katze2 und katze3 an.
 
 
-
-
-## Lernen
-
-In diesem Abschnitt sehen wir uns gemeinsam gut geeignete Möglichkeiten an, um Fake zu identifizieren.
-
-Wir unterscheiden Informationen dabei in drei Arten:
-
-1. Primärquelle - Dies sind etwa Augenzeugenberichte, Luftbildaufnahmen, gefilmtes ungeschnittenes Rohmaterial (Bild oder Video) oder selbst gesehen und gehörtes.
-2. Sekundärquellen - Auswertender- oder berichtender Bericht wie Zeitungsartikel oder Fernsehbeiträge
-3. sonstige - Berichte, die sich auf Sekundärquellen beziehen. Auf diese gehen hier wir nicht weiter ein. Spring aus diesen Quellen am besten direkt zu den Sekundärquellen und ziehe nach deren Prüfung selbst Schlussfolgerungen.
-
-i> Eine sehr umfangreiche Sammlung über Sammlungen zum Enttarnen von Fake findest du auf [medium.com/quiztime](https://medium.com/quiztime/these-link-collections-are-great-starting-points-for-social-media-verification-and-other-research-b51617743ef5).
 
 Egal ob Primär- oder Sekundärquelle, beide können Fake sein. Prüfe daher in beiden Fällen nach, ob die Informationen stimmen.
 
