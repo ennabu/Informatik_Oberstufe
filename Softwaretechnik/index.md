@@ -19,7 +19,13 @@ Setzen Informatiker\*innen ihre objektorientierte Brille auf, sehen sie nur noch
 
 Sie haben gemeinsame **Attribute**, also Eigenschaften und auch **Methoden**, die sie alle ausführen können (genauer: die man an ihnen vollziehen kann). Man stellt diese Informationen in einer **Klassenkarte** dar.
 
-<img src="img/Klassenkarten_Objektkarten.png" alt="Klassenkarten_Objektkarten" style="zoom:48%;" />
+<img src="img/Klassenkarten_Objektkarten.png" width="200" />
+
+
+
+ 
+
+
 
 Einzelne Objekte aus dieser Klasse weisen nun die gleichen Attribute und Methoden auf, wie die Klasse – die **Attributwerte** sind aber unterschiedlich. 
 
