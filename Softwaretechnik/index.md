@@ -50,7 +50,11 @@ Häufig kommt es beispielsweise vor, dass der Zugriff auf bestimmte Attribute nu
 
 t> Überlege dir hinreichend plausible Gründe für die Wahl der Sichtbarkeiten im obigen Beispiel.
 
-Aus dieser erweiterten Form der Klassenkarte gehen neben der Sichtbarkeit noch **Parameter** für einzelne Methoden und die **Datentypen** für die Attribute hervor. 
+Aus dieser erweiterten Form der Klassenkarte gehen neben der Sichtbarkeit noch **Parameter** für einzelne Methoden und die **Datentypen** für die Attribute hervor. Die Methode *schlafe* erhält z.B. einen Integer-Wert, während die Methode *sageDeinenName* einen String-Wert zurückliefert. 
 
 w> Du solltest die Bedeutung der Datentypen *Integer*, *Float*, *Boolean* und *String* kennen.
+
+t> Formuliere Übergabe- und Rückgabewert für die übrigen Methoden.
+
+
 
