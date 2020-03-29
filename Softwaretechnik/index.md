@@ -50,3 +50,7 @@ Häufig kommt es beispielsweise vor, dass der Zugriff auf bestimmte Attribute nu
 
 t> Überlege dir hinreichend plausible Gründe für die Wahl der Sichtbarkeiten im obigen Beispiel.
 
+Aus dieser erweiterten Form der Klassenkarte gehen neben der Sichtbarkeit noch **Parameter** für einzelne Methoden und die **Datentypen** für die Attribute hervor. 
+
+i> Du solltest die Bedeutung der Datentypen *Integer*, *Float*, *Boolean* und *String* kennen.
+
