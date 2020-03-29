@@ -15,17 +15,23 @@ Gute Kurse:
 
 ## Die Objektorientierte Brille
 
-Setzen Informatiker\*innen ihre objektorientierte Brille auf, sehen sie nur noch **Objekte** , die zu irgendwelchen **Klassen** zusammen gefasst werden können. So gibt es zum Beispiel lauter unterschiedliche  Objekte, die alle der Klasse *Katze* angehören. Sie haben gemeinsame **Attribute**, also Eigenschaften und auch **Methoden**, die sie alle ausführen können (genauer: die man an ihnen vollziehen kann). Man stellt diese Informationen in einer **Klassenkarte** dar.
+Setzen Informatiker\*innen ihre objektorientierte Brille auf, sehen sie nur noch **Objekte** , die zu irgendwelchen **Klassen** zusammen gefasst werden können. So gibt es zum Beispiel lauter unterschiedliche  Objekte (manchmal bezeichnet man sie auch als **Instanzen**), die alle der Klasse *Katze* angehören. 
 
-<img src="./img/Klassenkarte.png" alt="Klassenkarte" style="zoom:33%;" />
+Sie haben gemeinsame **Attribute**, also Eigenschaften und auch **Methoden**, die sie alle ausführen können (genauer: die man an ihnen vollziehen kann). Man stellt diese Informationen in einer **Klassenkarte** dar.
+
+<img src="img/Klassenkarte.png" alt="Klassenkarte," style="zoom:24%;" />
 
 Einzelne Objekte aus dieser Klasse weisen nun die gleichen Attribute und Methoden auf, wie die Klasse – die **Attributwerte** sind aber unterschiedlich. 
 
-|               ![Download](./img/Download.jpeg)               | <img src="GarfieldStanding-5494833.jpg" alt="GarfieldStanding," style="zoom:14%;" /> | ![Nyan_Cat](./img/Nyan_Cat.gif) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------- |
-| <img src="img/GrumpyCat.png" alt="GrumpyCat, zoo" style="zoom:25%;" /> |                                                              |                                 |
 
-i> Lege Objektkarten für die anderen beiden Objekte katze2 und katze3 an.
+
+|                 ![Grumpy](img/Grumpy.jpeg)                  | <img src="img/GarfieldStanding.jpg" alt="GarfieldStanding" style="zoom:14%;" /> | ![Nyan_Cat](img/Nyan_Cat.gif) |
+| :---------------------------------------------------------: | :----------------------------------------------------------: | ----------------------------- |
+| <img src="img/katze1.png" alt="katze1" style="zoom:48%;" /> |                                                              |                               |
+
+t> Lege Objektkarten für die anderen beiden Objekte katze2 und katze3 an.
+
+
 
 
 
