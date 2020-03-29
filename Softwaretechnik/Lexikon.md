@@ -1,0 +1,4 @@
+Objekt
+
+Klasse
+

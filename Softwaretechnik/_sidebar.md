@@ -1,5 +1,6 @@
 * [Start](./)
 * [Die Objektorientierte Brille](./01_Brille.md)
+* [Lexikon](./Lexikon.md)
 * Nützliche Werkzeuge
 
   * [Thonny](https://thonny.org/)
