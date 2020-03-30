@@ -1,5 +1,5 @@
 * [Start](./)
-* [Objektorientierte Modellierung](/OOM.md)
+* [Objektorientierte Modellierung](/Softwaretechnik/OOM.md)
 * [Lexikon](/Softwaretechnik/Lexikon.md)
 * Nützliche Werkzeuge
 

@@ -22,7 +22,7 @@ Gutes Material:
 
 Diese Zusammenfassung grundlegenden Wissens besteht aus zwei Bestandteilen:
 
-[Teil 1: Objektorientierte Modellierung](/OOM.md)
+[Teil 1: Objektorientierte Modellierung](/Softwaretechnik/OOM.md)
 
 
 
@@ -80,7 +80,9 @@ t> Überlege dir für deine oben gewählten Beispielszenarien mögliche Generali
 
 ## Weitere Beziehungen zwischen Klassen
 
-Eine schwächere Form der Beziehung zwischen Klassen ist eine **Assoziation** (KENNT-Beziehung). Sie beschreibt eine Verbindung zwischen zwei oder mehreren Klassen.![Assoziation](img/Assoziation.png)
+Eine schwächere Form der Beziehung zwischen Klassen ist eine **Assoziation** (KENNT-Beziehung). Sie beschreibt eine Verbindung zwischen zwei oder mehreren Klassen.
+
+![Assoziation](img/Assoziation.png)
 
 In der Regel gibt man am Ende von Assoziationen **Multiplizitäten** an. Sie besagen, wie viele der Objekte in Relation zu den anderen Objekten der Relation stehen.
 
