@@ -1,5 +1,5 @@
 * [Start](./)
-* [Die Objektorientierte Brille](./01_Brille.md)
+* [Objektorientierte Modellierung](Objektorientierte Modellierung.md)
 * [Lexikon](./Lexikon.md)
 * Nützliche Werkzeuge
 
