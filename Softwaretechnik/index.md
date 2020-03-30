@@ -13,8 +13,10 @@ Gutes Material:
   sehr ausführliche Einführung
   
 - https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
-  
+
   ein englischer Text, aber dafür für 6-jährige
+
+- Literatur-Hinweise im Material-Ordner
 
 
 
