@@ -24,7 +24,3 @@ Diese Zusammenfassung grundlegenden Wissens besteht aus zwei Bestandteilen:
 
 [Teil 1: Objektorientierte Modellierung](/Softwaretechnik/OOM.md)
 
-
-
-
-
