@@ -22,7 +22,7 @@ Gutes Material:
 
 Diese Zusammenfassung grundlegenden Wissens besteht aus zwei Bestandteilen:
 
-[Teil 1: Objektorientierte Modellierung](/Softwaretechnik/Objektorientierte_Modellierung.md)
+[Teil 1: Objektorientierte Modellierung](/OOM.md)
 
 
 
