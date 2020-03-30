@@ -38,11 +38,15 @@ t> Formuliere Übergabe- und Rückgabewert für die übrigen Methoden.
 
 
 
-## Vererbung
+## Vererbung, Generalisierung und Spezialisierung
 
 Ausgehend von einer bestehenden allgemeinen **Klasse** kann man verwandte Klassen definieren. Die so entstehende **abgeleitete Klasse** erbt Methoden und Attribute der **Basisklasse**. Ableleitete Klassen haben womöglich weitere oder veränderte Eigenschaften. 
 
 ![Vererbung2](img/Vererbung2.png)
 
 Die abgeleitete Klasse hat damit nicht nur alle Attribute der Klasse *Katze*, sondern auch zusätzliche wie z.B. eine Farbe. Bei den Methoden verhält es sich ähnlich. 
+
+Im obigen Beispiel ist die Klasse *Katze* eine **Generalisierung** der Klassen *ComicKatze* und *Hauskatze*, während umgekehrt die Klassen *ComicKatze* und *Hauskatze* eine **Spezialisierung** der Klasse *Katze* sind.
+
+t> Überlege dir für deine oben gewählten Beispielszenarien mögliche Generalisierungen oder Spezialisierungen deiner Klassen.
 
