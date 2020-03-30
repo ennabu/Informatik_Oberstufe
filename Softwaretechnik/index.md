@@ -24,3 +24,5 @@ Diese Zusammenfassung grundlegenden Wissens besteht aus zwei Bestandteilen:
 
 [Teil 1: Objektorientierte Modellierung](/Softwaretechnik/OOM.md)
 
+[Teil 2: Objektorientierte Programmierung in Python (wächst noch)](/Softwaretechnik/OOP.md)
+
