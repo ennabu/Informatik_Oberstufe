@@ -40,7 +40,7 @@ t> Formuliere Übergabe- und Rückgabewert für die übrigen Methoden.
 
 ## Vererbung, Generalisierung und Spezialisierung
 
-Ausgehend von einer bestehenden allgemeinen **Klasse** kann man verwandte Klassen definieren. Die so entstehende **abgeleitete Klasse** erbt Methoden und Attribute der **Basisklasse**. Ableleitete Klassen haben womöglich weitere oder veränderte Eigenschaften. 
+Ausgehend von einer bestehenden allgemeinen **Klasse** kann man mittels **Vererbung** verwandte Klassen definieren. Die so entstehende **abgeleitete Klasse** erbt Methoden und Attribute der **Basisklasse**. Ableleitete Klassen haben womöglich weitere oder veränderte Eigenschaften. 
 
 ![Vererbung2](img/Vererbung2.png)
 
@@ -50,3 +50,15 @@ Im obigen Beispiel ist die Klasse *Katze* eine **Generalisierung** der Klassen *
 
 t> Überlege dir für deine oben gewählten Beispielszenarien mögliche Generalisierungen oder Spezialisierungen deiner Klassen.
 
+## Weitere Beziehungen zwischen Klassen
+
+Eine schwächere Form der Beziehung zwischen Klassen ist eine **Assoziation** (KENNT-Beziehung). Sie beschreibt eine Verbindung zwischen zwei oder mehreren Klassen.![Assoziation](img/Assoziation.png)
+
+In der Regel gibt man am Ende von Assoziationen **Multiplizitäten** an. Sie besagen, wie viele der Objekte in Relation zu den anderen Objekten der Relation stehen.
+
+![Assoziation_Multiplizitäten](img/Assoziation_Multiplizitäten.png)
+
+Schlussendlich bleiben noch zwei häufig auftretende Beziehungen, die daher einen eigenen Namen erhalten haben. Sie beschreiben Beziehungen zwischen einem Ganzen und seinen Teilen.
+
+- **Aggregationen** verknüpfen voneinander unabhängige Klassen (BESTEHT AUS-Beziehung)
+- **Kompositionen** als Spezialfall einer Assoziation verknüpft zwei Klassen, bei der die eine die andere (HAT-Beziehung). Die eine Klasse existiert nicht ohne die andere.
