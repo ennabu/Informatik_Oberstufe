@@ -60,8 +60,14 @@ In der Regel gibt man am Ende von Assoziationen **Multiplizitäten** an. Sie bes
 
 Schlussendlich bleiben noch zwei häufig auftretende Beziehungen, die daher einen eigenen Namen erhalten haben. Sie beschreiben Beziehungen zwischen einem Ganzen und seinen Teilen.
 
-- **Aggregationen** beschreiben Teil-Ganze-Beziehungen zwischen zwei Klassen, wobei beide ohne einander existieren können (BESTEHT AUS-Beziehung)
+- **Aggregationen** beschreiben Teil-Ganze-Beziehungen zwischen zwei Klassen, wobei beide ohne einander existieren könnten (BESTEHT AUS-Beziehung)
 - **Kompositionen** als Spezialfall einer Assoziation verknüpft zwei Klassen, bei der die untergeordnete nicht ohne die andere existieren kann. (HAT-Beziehung)
 
 ![AggregationKomposition](img/AggregationKomposition.png)
+
+
+
+t> Vergewewissere dich, dass die Beziehungen Gebäude – Raum, Mensch – Kopf, Buch – Kapitel Kompositionen sind, während die Beziehungen Fahrrad – Fahrrad, Mitspieler\*innen – Team Aggregationen sind. 
+
+t> Probiere dich an Aufgabe 3.4 des Abiturs von 2019 sowie Aufgabe 3.1 des Abiturs vpn 2018 aus.
 

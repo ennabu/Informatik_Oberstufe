@@ -1,4 +1,6 @@
-Objekt
+# Doch kein Lexikon – aber eine Begriffsübersicht
 
-Klasse
+##Objektorientierte Modellierung
+
+![Mindmap](img/Mindmap.png)
 
