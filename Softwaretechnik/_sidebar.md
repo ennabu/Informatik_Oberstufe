@@ -1,6 +1,6 @@
 * [Start](./)
-* [Objektorientierte Modellierung](/Objektorientierte_Modellierung.md)
-* [Lexikon](/Lexikon.md)
+* [Objektorientierte Modellierung](/Softwaretechnik/Objektorientierte_Modellierung.md)
+* [Lexikon](/Softwaretechnik/Lexikon.md)
 * Nützliche Werkzeuge
 
   * [Thonny](https://thonny.org/)
