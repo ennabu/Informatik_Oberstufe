@@ -1,5 +1,5 @@
 * [Start](./)
-* [Objektorientierte Modellierung](Objektorientierte Modellierung.md)
+* [Objektorientierte Modellierung](Objektorientierte_Modellierung.md)
 * [Lexikon](./Lexikon.md)
 * Nützliche Werkzeuge
 
