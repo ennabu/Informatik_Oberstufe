@@ -60,5 +60,8 @@ In der Regel gibt man am Ende von Assoziationen **Multiplizitäten** an. Sie bes
 
 Schlussendlich bleiben noch zwei häufig auftretende Beziehungen, die daher einen eigenen Namen erhalten haben. Sie beschreiben Beziehungen zwischen einem Ganzen und seinen Teilen.
 
-- **Aggregationen** verknüpfen voneinander unabhängige Klassen (BESTEHT AUS-Beziehung)
-- **Kompositionen** als Spezialfall einer Assoziation verknüpft zwei Klassen, bei der die eine die andere (HAT-Beziehung). Die eine Klasse existiert nicht ohne die andere.
+- **Aggregationen** beschreiben Teil-Ganze-Beziehungen zwischen zwei Klassen, wobei beide ohne einander existieren können (BESTEHT AUS-Beziehung)
+- **Kompositionen** als Spezialfall einer Assoziation verknüpft zwei Klassen, bei der die untergeordnete nicht ohne die andere existieren kann. (HAT-Beziehung)
+
+![AggregationKomposition](img/AggregationKomposition.png)
+
