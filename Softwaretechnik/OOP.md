@@ -69,6 +69,8 @@ t> Beschäftige dich mit Aufgabe 2 des Abiturs von 2019
 
 t> Beschäftige dich mit Aufgabe 3.3 des Abiturs von 2017
 
+t> Auch die Aufgaben 3.2 und 3.3 aus dem Jahre 2016, 1.4 und 2 von 2015 könntest du zum üben nutzen.
+
 
 
 
