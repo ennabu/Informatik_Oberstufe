@@ -51,7 +51,19 @@ Ein Objekt der Klasse Katze erzeugt man dann durch Aufruf des **Konstruktors** i
 
 t> Bringe den Quelltext im Programm Thonny zum laufen. Mache dir den Unterschied zwischen der Methode *schnurre* und der Methode *schlafe* klar. 
 
+t> Erzeuge zwei weitere Objekte der Klasse *Katze*.
+
 t> Ergänze in deinem Quelltext eine Methode *ändereMeinenNamen*, in der man der Katze einen Namen geben kann.
 
 t> Ergänze eine Methode *trinke(self, energiegewinn)*, sageDeineEnergie( ) und erkläre, was man am Quelltext verändern müsste, um ein Schnurren der Katze erzwingen zu können. (*"Kann man nicht, es ist eine Katze" gilt nicht*)
+
+i> Als weitere Übungsaufgaben beschäftige dich mit Aufgabe 2 des Abiturs von 2019 sowie mit Aufgabe 2.2 des Abiturs von 2017. Mache dich zunächst noch einmal mit dem Aufbau von Struktogrammen vertraut. Du kannst dich [knapp](http://www.wspiegel.de/pykurs/python08.html) oder [ausführlich](https://www.inf-schule.de/programmierung/imperativeprogrammierung/konzepteimp/ablaufmodellierung/beispiel_zahlenraten) mit ihnen auseinander setzen.
+
+
+
+
+
+
+
+
 
