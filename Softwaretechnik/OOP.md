@@ -63,9 +63,11 @@ i> Als weitere Übungsaufgaben beschäftige dich mit Aufgabe 2.2 des Abiturs von
 
 # Arbeit mit Zeichenketten in Python
 
-Erinnere dich z.B. [mittels dieser Webseite](https://www.inf-schule.de/programmierung/imperativeprogrammierung/fallstudien/modularisierung/fallstudie_verschluesselungcaesar) an die Verwendung von Zeichenketten in Python. 
+Erinnere dich z.B. [mittels dieser Webseite](https://www.inf-schule.de/programmierung/imperativeprogrammierung/fallstudien/modularisierung/fallstudie_verschluesselungcaesar) an die Verwendung von Zeichenketten in Python. Du kannst diesen Schritt auch überspringen.
 
 t> Beschäftige dich mit Aufgabe 2 des Abiturs von 2019
+
+t> Beschäftige dich mit Aufgabe 3.3 des Abiturs von 2017
 
 
 
